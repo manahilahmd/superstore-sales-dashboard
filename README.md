@@ -15,6 +15,3 @@ Tableau, Excel
 
   ## Dashboard Preview
 ![Dashboard](Dashboard.png) 
-
-## Live Version
-[View on Tableau Public](Tableau public.twbx)
