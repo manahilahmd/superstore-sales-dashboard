@@ -14,7 +14,6 @@ Tableau, Excel
 - Customer segment drives more sales than Corporate and Home Office combined
 
   ## Dashboard Preview
-![Dashboard](dashboard-image.png)
-
+![Dashboard](superstore-sales-dashboard) 
 ## Live Version
 [View on Tableau Public](your-link-here) *(if you end up publishing it)*
