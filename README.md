@@ -17,4 +17,4 @@ Tableau, Excel
 ![Dashboard](Dashboard.png) 
 
 ## Live Version
-[View on Tableau Public](your-link-here) *(if you end up publishing it)*
+[View on Tableau Public](Tableau public.twbx)
